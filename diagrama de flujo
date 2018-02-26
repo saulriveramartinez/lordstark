@@ -1,0 +1,13 @@
+inicio
+
+nombre= n
+
+lea="Digite un nombre:",n
+
+recorrer= len(n)
+
+sacar_letras= substr(n, len, -2)
+
+escribir="las dos ultimas letras del nombre son:" + sacar_letras
+
+fin
